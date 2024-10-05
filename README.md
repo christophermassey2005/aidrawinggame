@@ -6,3 +6,6 @@ recognised by the AI, or attempt to compete against the AI which draws images of
 
 All the details are on this page:
 https://christophermassey2005.github.io/aidrawinggame/
+
+Instructions:
+Load the folder "Drawing_Game_final_project" as a unity project. Everything else should work seamlessly from that point.
