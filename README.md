@@ -13,4 +13,11 @@ Instructions:
 3. Load the folder "Drawing_Game_" as a unity project. 
    Everything else should work seamlessly from that point.
 
-A PDF of the creation process/instructions is available for your convencience (the formatting is slightly better)
+A PDF of the creation process/instructions is available for your convencience (the formatting is slightly better).
+
+Here are some demo images:
+
+![demoimage1](https://github.com/user-attachments/assets/f1c7a24d-60f6-4e18-9180-5a8b0054b611)
+![demoimage2](https://github.com/user-attachments/assets/cd21f392-194c-4d0d-93bb-e766561cd580)
+![demoimage3](https://github.com/user-attachments/assets/f6d12f3d-69b3-4080-8f14-aa7b166dc1a6)
+![demoimage4](https://github.com/user-attachments/assets/2a706198-7eca-4336-87d3-9f1af549a8e7)
