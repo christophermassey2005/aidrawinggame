@@ -1,0 +1,2 @@
+The numpy_bitmap data has been ommitted in order to commit to github.
+Follow the instructions on the github pages link to recreate this data.

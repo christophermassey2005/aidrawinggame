@@ -1,0 +1,12 @@
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\GAN_Predictv2.exe.config
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\GAN_Predictv2.exe
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\GAN_Predictv2.pdb
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\Keras.dll
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\Numpy.Bare.dll
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\Python.Runtime.dll
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\bin\Debug\Python.Runtime.xml
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\obj\Debug\GAN_Predictv2.csproj.AssemblyReference.cache
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\obj\Debug\GAN_Predictv2.csproj.CoreCompileInputs.cache
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\obj\Debug\GAN_Predictv2.csproj.CopyComplete
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\obj\Debug\GAN_Predictv2.exe
+E:\CS Project\GAN_Predictv2\GAN_Predictv2\obj\Debug\GAN_Predictv2.pdb

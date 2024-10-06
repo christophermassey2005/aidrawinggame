@@ -1,0 +1,30 @@
+airplane
+alarm clock
+ambulance
+arm
+bush
+cake
+car
+carrot
+cat
+cow
+eye
+hamburger
+house
+light bulb
+lipstick
+moon
+mouse
+nose
+panda
+pig
+pizza
+rainbow
+scissors
+shorts
+snail
+tiger
+van
+violin
+wine glass
+zebra

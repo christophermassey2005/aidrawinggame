@@ -1,0 +1,17 @@
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.exe
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.deps.json
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.runtimeconfig.json
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.runtimeconfig.dev.json
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.dll
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\aiv2.pdb
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.csproj.AssemblyReference.cache
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.AssemblyInfoInputs.cache
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.AssemblyInfo.cs
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.csproj.CoreCompileInputs.cache
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.dll
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.pdb
+E:\CS Project\aiv2\aiv2\obj\Debug\netcoreapp3.1\aiv2.genruntimeconfig.cache
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\Keras.dll
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\Numpy.Bare.dll
+E:\CS Project\aiv2\aiv2\bin\Debug\netcoreapp3.1\Python.Runtime.dll

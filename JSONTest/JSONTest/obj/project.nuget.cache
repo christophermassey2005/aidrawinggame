@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MN9lL/oy4qmP9RBOGKyQ9Rk4LezjqCz5pGzWiAxbYYY6TvoJB7eJ7QFiEMQENqk3TazRwdOHv53tiWsRnsHPdw==",
+  "success": true,
+  "projectFilePath": "E:\\CS Project\\JSONTest\\JSONTest\\JSONTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haztec\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\Haztec\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

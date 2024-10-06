@@ -1,0 +1,16 @@
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.exe
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.deps.json
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.runtimeconfig.json
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.runtimeconfig.dev.json
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.dll
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\JSONTest.pdb
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.csproj.AssemblyReference.cache
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.AssemblyInfoInputs.cache
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.AssemblyInfo.cs
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.csproj.CoreCompileInputs.cache
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.dll
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.pdb
+E:\CS Project\JSONTest\JSONTest\obj\Debug\netcoreapp3.1\JSONTest.genruntimeconfig.cache
+E:\CS Project\JSONTest\JSONTest\bin\Debug\netcoreapp3.1\Json.Net.dll

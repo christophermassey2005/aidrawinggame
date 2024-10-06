@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pUjP4Q9JeuTC0hOr/tyA5GresS3G0ltqJjL2fM8v26jrmoopPADAwbPdkfchK4WJH5op9PTyehHtoRes7vMLw==",
+  "success": true,
+  "projectFilePath": "E:\\CS Project\\aiv2\\aiv2\\aiv2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haztec\\.nuget\\packages\\keras.net\\3.8.5\\keras.net.3.8.5.nupkg.sha512",
+    "C:\\Users\\Haztec\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Haztec\\.nuget\\packages\\numpy.bare\\3.8.1.25\\numpy.bare.3.8.1.25.nupkg.sha512",
+    "C:\\Users\\Haztec\\.nuget\\packages\\pythonnet_netstandard_py38_win\\2.5.1\\pythonnet_netstandard_py38_win.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
